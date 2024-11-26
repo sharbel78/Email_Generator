@@ -1,6 +1,9 @@
 
 
 Email Generator for Services Company
+
+
+
 A streamlined tool for generating personalized cold emails to target companies with job openings, built using GROQ, LangChain, and Streamlit.
 
 Features
